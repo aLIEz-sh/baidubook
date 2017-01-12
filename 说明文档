@@ -1,3 +1,4 @@
 语言：python
 框架：scrapy
 数据库：MySQL
+数据源：http://yuedu.baidu.com通过scrapy爬取百度阅读网站的书名及链接
