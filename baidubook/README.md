@@ -1,2 +1,0 @@
-# baidubook
-Python  scrapy     baidubook
